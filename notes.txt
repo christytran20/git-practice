@@ -12,3 +12,8 @@ git commit -m "a description of the changes"
 
 # push new local commits to the remote repo
 git push origin main
+
+# add commit push
+# word that comes after branch
+# is name of branch (the intent such be the first
+# part of the name | ex : feature/spanish-hello, bug/, refactor/)
